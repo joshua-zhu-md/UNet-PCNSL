@@ -1,4 +1,4 @@
-# Aneja-Lab-Public-CapsNet
+# UNet PCNSL
 
 This repository contains the code for our Unet-based deep learning model which predicts overall survival (OS) for primary central nervous system (PCNSL).
 
