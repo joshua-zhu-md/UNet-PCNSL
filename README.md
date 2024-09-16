@@ -3,7 +3,7 @@
 This repository contains the code for our Unet-based deep learning model which predicts overall survival (OS) for primary central nervous system (PCNSL).
 
 We have described the dataset, our models, and our results in the paper "Deriving Imaging Biomarkers for Primary Central Nervous System Lymphoma Using Deep Learning". 
-The pre-print can be accessed at: https://doi.org/10.1101/2022.01.18.22269482.
+The pre-print can be accessed at: https://www.medrxiv.org/content/10.1101/2024.09.16.24313435v1.
 
 
 Files description:
